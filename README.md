@@ -41,72 +41,64 @@ ACCESS      : PUBLIC ARCHIVE
 </code></pre>
 
 
----<div align="center">
+---
+<div align="center">
 
 # 🛰️ OPERATOR DASHBOARD
 
 
-<table width="100%" cellpadding="25" cellspacing="0" border="1"
+<table width="100%" cellpadding="0" cellspacing="0" border="1"
 style="border-collapse:collapse; table-layout:fixed;">
 
 
 <tr>
 
-<th style="padding:20px;">🟢 EASY</th>
-<th style="padding:20px;">🟡 MEDIUM</th>
-<th style="padding:20px;">🔴 HARD</th>
-<th style="padding:20px;">💀 TOTAL</th>
-<th style="padding:20px;">🚦 STATUS</th>
+<th style="padding:12px;">🟢 EASY</th>
+<th style="padding:12px;">🟡 MEDIUM</th>
+<th style="padding:12px;">🔴 HARD</th>
+<th style="padding:12px;">💀 TOTAL</th>
+<th style="padding:12px;">🚦 STATUS</th>
 
 </tr>
 
 
 <tr>
 
-<td align="center" style="padding:35px;">
+<td align="center" style="padding:12px;">
 
-<h1>02</h1>
-
+<b>02</b><br>
 Beginner Targets
 
 </td>
 
 
-<td align="center" style="padding:35px;">
+<td align="center" style="padding:12px;">
 
-<h1>04</h1>
-
+<b>04</b><br>
 Intermediate Targets
 
 </td>
 
 
-<td align="center" style="padding:35px;">
+<td align="center" style="padding:12px;">
 
-<h1>00</h1>
-
+<b>00</b><br>
 Advanced Targets
 
 </td>
 
 
-<td align="center" style="padding:35px;">
+<td align="center" style="padding:12px;">
 
-<h1>06</h1>
-
-Machines Logged
+<b>06</b><br>
+Machines
 
 </td>
 
 
-<td align="center" style="padding:35px;">
+<td align="center" style="padding:12px;">
 
-<h1>🟢</h1>
-
-ONLINE
-
-<br>
-
+🟢 ONLINE<br>
 ACTIVE
 
 </td>
@@ -117,11 +109,12 @@ ACTIVE
 
 </table>
 
-
 </div>
 
 
+
 ---
+
 
 
 <div align="center">
@@ -130,22 +123,21 @@ ACTIVE
 # 📚 MACHINE DATABASE
 
 
-<table width="100%" cellpadding="20" cellspacing="0" border="1"
+<table width="100%" cellpadding="0" cellspacing="0" border="1"
 style="border-collapse:collapse; table-layout:fixed;">
 
 
 <tr>
 
-<th width="25%" style="padding:20px;">🖥️ MACHINE</th>
+<th width="25%" style="padding:12px;">🖥️ MACHINE</th>
 
-<th width="20%" style="padding:20px;">🐧 PLATFORM</th>
+<th width="20%" style="padding:12px;">🐧 PLATFORM</th>
 
-<th width="20%" style="padding:20px;">🎯 DIFFICULTY</th>
+<th width="20%" style="padding:12px;">🎯 DIFFICULTY</th>
 
-<th width="20%" style="padding:20px;">🚦 STATUS</th>
+<th width="20%" style="padding:12px;">🚦 STATUS</th>
 
-<th width="15%" style="padding:20px;">📂 WRITEUP</th>
-
+<th width="15%" style="padding:12px;">📂 WRITEUP</th>
 
 </tr>
 
@@ -153,48 +145,35 @@ style="border-collapse:collapse; table-layout:fixed;">
 
 <tr>
 
-<td align="center" style="padding:30px;">
-
-&nbsp;&nbsp;&nbsp;
+<td align="center" style="padding:12px;">
 
 <b>2Million</b>
 
-&nbsp;&nbsp;&nbsp;
-
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 🐧 Linux
 
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 🟢 EASY
 
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 ✅ COMPLETE
 
 </td>
 
-
-<td align="center" style="padding:30px;">
-
-<a href="2Million/">
+<td align="center" style="padding:12px;">
 
 🚀 OPEN
 
-</a>
-
 </td>
-
 
 </tr>
 
@@ -202,251 +181,181 @@ style="border-collapse:collapse; table-layout:fixed;">
 
 <tr>
 
-<td align="center" style="padding:30px;">
-
-&nbsp;&nbsp;&nbsp;
+<td align="center" style="padding:12px;">
 
 <b>Bedside</b>
 
-&nbsp;&nbsp;&nbsp;
-
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 🐧 Linux
 
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 🟢 EASY
 
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 ✅ COMPLETE
 
 </td>
 
-
-<td align="center" style="padding:30px;">
-
-<a href="Bedside_HTB/">
+<td align="center" style="padding:12px;">
 
 🚀 OPEN
 
-</a>
-
 </td>
-
 
 </tr>
 
 
 
-
 <tr>
 
-<td align="center" style="padding:30px;">
-
-&nbsp;&nbsp;&nbsp;
+<td align="center" style="padding:12px;">
 
 <b>Connected</b>
 
-&nbsp;&nbsp;&nbsp;
-
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 🐧 Linux
 
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 🟡 MEDIUM
 
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 ✅ COMPLETE
 
 </td>
 
-
-<td align="center" style="padding:30px;">
-
-<a href="Connected/">
+<td align="center" style="padding:12px;">
 
 🚀 OPEN
 
-</a>
-
 </td>
-
 
 </tr>
 
 
 
-
 <tr>
 
-<td align="center" style="padding:30px;">
-
-&nbsp;&nbsp;&nbsp;
+<td align="center" style="padding:12px;">
 
 <b>DevHub</b>
 
-&nbsp;&nbsp;&nbsp;
-
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 🐧 Linux
 
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 🟡 MEDIUM
 
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 ✅ COMPLETE
 
 </td>
 
-
-<td align="center" style="padding:30px;">
-
-<a href="DevHub/">
+<td align="center" style="padding:12px;">
 
 🚀 OPEN
 
-</a>
-
 </td>
-
 
 </tr>
 
 
 
-
 <tr>
 
-<td align="center" style="padding:30px;">
-
-&nbsp;&nbsp;&nbsp;
+<td align="center" style="padding:12px;">
 
 <b>Enigma</b>
 
-&nbsp;&nbsp;&nbsp;
-
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 🐧 Linux
 
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 🟡 MEDIUM
 
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 ✅ COMPLETE
 
 </td>
 
-
-<td align="center" style="padding:30px;">
-
-<a href="Enigma_HTB/">
+<td align="center" style="padding:12px;">
 
 🚀 OPEN
 
-</a>
-
 </td>
 
-
 </tr>
-
 
 
 
 <tr>
 
-<td align="center" style="padding:30px;">
-
-&nbsp;&nbsp;&nbsp;
+<td align="center" style="padding:12px;">
 
 <b>PaperWork</b>
 
-&nbsp;&nbsp;&nbsp;
-
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 🐧 Linux
 
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 🟡 MEDIUM
 
 </td>
 
-
-<td align="center" style="padding:30px;">
+<td align="center" style="padding:12px;">
 
 ✅ COMPLETE
 
 </td>
 
-
-<td align="center" style="padding:30px;">
-
-<a href="PaperWork/">
+<td align="center" style="padding:12px;">
 
 🚀 OPEN
 
-</a>
-
 </td>
 
-
 </tr>
-
 
 
 </table>
