@@ -41,65 +41,72 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 </code></pre>
 
-
 ---
-
 
 <div align="center">
 
 ## 🛰️ OPERATOR DASHBOARD
 
 
-<table>
+<table width="100%">
 
 <tr>
 
-<td align="center" width="180">
+<td align="center">
 
-<img src="https://img.shields.io/badge/EASY-2-22C55E?style=for-the-badge"/>
+<h3>🟢 SYSTEM</h3>
 
-<br>
+<img src="https://img.shields.io/badge/ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black"/>
 
-🟢 Beginner
+<br><br>
 
-</td>
-
-
-<td align="center" width="180">
-
-<img src="https://img.shields.io/badge/MEDIUM-4-EAB308?style=for-the-badge"/>
-
-<br>
-
-🟡 Intermediate
+<code>ARCHIVE ACTIVE</code>
 
 </td>
 
 
-<td align="center" width="180">
+<td align="center">
 
-<img src="https://img.shields.io/badge/HARD-0-EF4444?style=for-the-badge"/>
+<h3>🎯 TARGETS</h3>
 
-<br>
+<img src="https://img.shields.io/badge/HTB-06%20MACHINES-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 
-🔴 Advanced
+<br><br>
+
+<code>RETIRED DATABASE</code>
 
 </td>
 
 
-<td align="center" width="180">
+<td align="center">
 
-<img src="https://img.shields.io/badge/TOTAL-6-111827?style=for-the-badge"/>
+<h3>🧬 MODE</h3>
 
-<br>
+<img src="https://img.shields.io/badge/RED%20TEAM-TRAINING-EF4444?style=for-the-badge"/>
 
-💀 Machines
+<br><br>
+
+<code>LAB ANALYSIS</code>
+
+</td>
+
+
+<td align="center">
+
+<h3>📡 ACCESS</h3>
+
+<img src="https://img.shields.io/badge/PUBLIC-ARCHIVE-111827?style=for-the-badge"/>
+
+<br><br>
+
+<code>OPEN SOURCE</code>
 
 </td>
 
 </tr>
 
 </table>
+
 
 </div>
 
@@ -112,145 +119,236 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 # 📚 MACHINE DATABASE
 
 
-<table>
+<table width="100%">
 
 <tr>
 
-<th>🖥️ Machine</th>
-<th>🐧 OS</th>
-<th>🎯 Difficulty</th>
-<th>🚦 Status</th>
-<th>📂 Writeup</th>
+<th width="25%">🖥️ MACHINE</th>
+<th width="20%">🐧 PLATFORM</th>
+<th width="20%">🎯 LEVEL</th>
+<th width="20%">🚦 STATE</th>
+<th width="15%">📂 ACCESS</th>
 
 </tr>
 
 
 <tr>
 
-<td><b>2Million</b></td>
+<td align="center">
 
-<td>🐧 Linux</td>
+<b>2Million</b>
 
-<td>
-<img src="https://img.shields.io/badge/EASY-22C55E?style=flat-square"/>
 </td>
 
-<td>
-<img src="https://img.shields.io/badge/COMPLETE-16A34A?style=flat-square"/>
+<td align="center">
+
+🐧 Linux
+
 </td>
 
-<td>
-<a href="2Million/"><b>OPEN 🚀</b></a>
+<td align="center">
+
+🟢 EASY
+
 </td>
 
-</tr>
+<td align="center">
 
+<img src="https://img.shields.io/badge/PWNED%20%26%20DOCUMENTED-22C55E?style=flat-square"/>
 
-
-<tr>
-
-<td><b>Bedside</b></td>
-
-<td>🐧 Linux</td>
-
-<td>
-<img src="https://img.shields.io/badge/EASY-22C55E?style=flat-square"/>
 </td>
 
-<td>
-<img src="https://img.shields.io/badge/COMPLETE-16A34A?style=flat-square"/>
-</td>
+<td align="center">
 
-<td>
-<a href="Bedside_HTB/"><b>OPEN 🚀</b></a>
+<a href="2Million/">
+🚀 OPEN
+</a>
+
 </td>
 
 </tr>
 
 
-
 <tr>
 
-<td><b>Connected</b></td>
+<td align="center">
 
-<td>🐧 Linux</td>
+<b>Bedside</b>
 
-<td>
-<img src="https://img.shields.io/badge/MEDIUM-EAB308?style=flat-square"/>
 </td>
 
-<td>
-<img src="https://img.shields.io/badge/COMPLETE-16A34A?style=flat-square"/>
+<td align="center">
+
+🐧 Linux
+
 </td>
 
-<td>
-<a href="Connected/"><b>OPEN 🚀</b></a>
+<td align="center">
+
+🟢 EASY
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/PWNED%20%26%20DOCUMENTED-22C55E?style=flat-square"/>
+
+</td>
+
+<td align="center">
+
+<a href="Bedside_HTB/">
+🚀 OPEN
+</a>
+
 </td>
 
 </tr>
 
 
-
 <tr>
 
-<td><b>DevHub</b></td>
+<td align="center">
 
-<td>🐧 Linux</td>
+<b>Connected</b>
 
-<td>
-<img src="https://img.shields.io/badge/MEDIUM-EAB308?style=flat-square"/>
 </td>
 
-<td>
-<img src="https://img.shields.io/badge/COMPLETE-16A34A?style=flat-square"/>
+<td align="center">
+
+🐧 Linux
+
 </td>
 
-<td>
-<a href="DevHub/"><b>OPEN 🚀</b></a>
+<td align="center">
+
+🟡 MEDIUM
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/PWNED%20%26%20DOCUMENTED-EAB308?style=flat-square"/>
+
+</td>
+
+<td align="center">
+
+<a href="Connected/">
+🚀 OPEN
+</a>
+
 </td>
 
 </tr>
 
 
-
 <tr>
 
-<td><b>Enigma</b></td>
+<td align="center">
 
-<td>🐧 Linux</td>
+<b>DevHub</b>
 
-<td>
-<img src="https://img.shields.io/badge/MEDIUM-EAB308?style=flat-square"/>
 </td>
 
-<td>
-<img src="https://img.shields.io/badge/COMPLETE-16A34A?style=flat-square"/>
+<td align="center">
+
+🐧 Linux
+
 </td>
 
-<td>
-<a href="Enigma_HTB/"><b>OPEN 🚀</b></a>
+<td align="center">
+
+🟡 MEDIUM
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/PWNED%20%26%20DOCUMENTED-EAB308?style=flat-square"/>
+
+</td>
+
+<td align="center">
+
+<a href="DevHub/">
+🚀 OPEN
+</a>
+
 </td>
 
 </tr>
 
 
+<tr>
+
+<td align="center">
+
+<b>Enigma</b>
+
+</td>
+
+<td align="center">
+
+🐧 Linux
+
+</td>
+
+<td align="center">
+
+🟡 MEDIUM
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/PWNED%20%26%20DOCUMENTED-EAB308?style=flat-square"/>
+
+</td>
+
+<td align="center">
+
+<a href="Enigma_HTB/">
+🚀 OPEN
+</a>
+
+</td>
+
+</tr>
+
 
 <tr>
 
-<td><b>PaperWork</b></td>
+<td align="center">
 
-<td>🐧 Linux</td>
+<b>PaperWork</b>
 
-<td>
-<img src="https://img.shields.io/badge/MEDIUM-EAB308?style=flat-square"/>
 </td>
 
-<td>
-<img src="https://img.shields.io/badge/COMPLETE-16A34A?style=flat-square"/>
+<td align="center">
+
+🐧 Linux
+
 </td>
 
-<td>
-<a href="PaperWork/"><b>OPEN 🚀</b></a>
+<td align="center">
+
+🟡 MEDIUM
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/PWNED%20%26%20DOCUMENTED-EAB308?style=flat-square"/>
+
+</td>
+
+<td align="center">
+
+<a href="PaperWork/">
+🚀 OPEN
+</a>
+
 </td>
 
 </tr>
@@ -258,7 +356,6 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 </table>
 
-
 </div>
 
 
@@ -268,66 +365,65 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 <div align="center">
 
 
-## ⚔️ ATTACK PIPELINE
+## 🛡️ ARCHIVE PROTOCOL
 
 
-<table>
+<table width="100%">
 
 <tr>
 
 <td align="center">
 
-🔎
+🔒
 <br>
-<b>RECON</b>
+
+<b>DATA SOURCE</b>
+
+<br>
+
+Retired HTB Machines
 
 </td>
 
 
-<td>➡️</td>
-
-
 <td align="center">
 
-🛰️
+🧪
 <br>
-<b>ENUMERATION</b>
+
+<b>VALIDATION</b>
+
+<br>
+
+Lab Reproduction
 
 </td>
 
 
-<td>➡️</td>
-
-
 <td align="center">
 
-💀
+📖
 <br>
-<b>EXPLOIT</b>
+
+<b>CONTENT</b>
+
+<br>
+
+Technical Analysis
 
 </td>
 
 
-<td>➡️</td>
-
-
 <td align="center">
 
-👑
+🌐
 <br>
-<b>PRIVESC</b>
 
-</td>
+<b>RELEASE</b>
 
-
-<td>➡️</td>
-
-
-<td align="center">
-
-📝
 <br>
-<b>DOCUMENT</b>
+
+Educational Use
 
 </td>
 
@@ -335,95 +431,25 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 </tr>
 
 </table>
-
-
-</div>
-
-
----
-
-
-## 📁 Repository Structure
-
-
-```text
-HTB-WRITEUPS
-
-├── 🟢 Easy
-│
-├── 2Million
-├── Bedside_HTB
-│
-├── 🟡 Medium
-│
-├── Connected
-├── DevHub
-├── Enigma_HTB
-└── PaperWork
-
-└── 📚 Research
-    ├── Notes
-    ├── Screenshots
-    └── Methodology
-```
-
-
----
-
-
-<div align="center">
-
-
-## ⚠️ PUBLIC RELEASE NOTICE
-
-
-</div>
-
-
-This repository contains **retired Hack The Box machine writeups** created for:
-
-🔎 Enumeration research  
-💀 Exploitation analysis  
-👑 Privilege escalation practice  
-🛡️ Defensive security learning  
-
-
-### 🚫 Excluded
-
-❌ Active machine solutions  
-❌ Credentials  
-❌ VPN files  
-❌ Private keys  
-❌ Flags  
-❌ Unreleased HTB content  
-
-
----
-
-
-<div align="center">
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:9FEF00&height=3"/>
 
 
 <br>
 
 
 <pre><code>
-[ recon ] → [ enumerate ] → [ exploit ] → [ privilege escalate ] → [ document ]
+┌─────────────────────────────────────────────┐
+│  SECURITY NOTICE                            │
+├─────────────────────────────────────────────┤
+│  ✔ Retired machines only                   │
+│  ✔ Research documentation                  │
+│  ✔ Defensive security learning             │
+│                                             │
+│  ✘ No active solutions                     │
+│  ✘ No credentials                          │
+│  ✘ No private keys                         │
+│  ✘ No VPN files                            │
+└─────────────────────────────────────────────┘
 </code></pre>
-
-
-⚡ **Retired HTB • Evidence-Driven Writeups • Repeatable Methodology**
-
-
-<br>
-
-
-<sub>
-root@github:~# logout
-</sub>
 
 
 </div>
