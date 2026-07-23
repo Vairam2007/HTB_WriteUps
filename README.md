@@ -96,7 +96,7 @@ Machines
 </td>
 
 
-<td align="center" style="padding:12px;">
+<td align="center" style="padding:20px;">
 
 🟢 ONLINE<br>
 ACTIVE
