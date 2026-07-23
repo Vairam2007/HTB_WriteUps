@@ -113,21 +113,47 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 ---
 
+---
 
 <div align="center">
 
-# 📚 MACHINE DATABASE
+## 📚 MACHINE DATABASE
 
 
 <table width="100%">
 
 <tr>
 
-<th width="25%">🖥️ MACHINE</th>
-<th width="20%">🐧 PLATFORM</th>
-<th width="20%">🎯 LEVEL</th>
-<th width="20%">🚦 STATE</th>
-<th width="15%">📂 ACCESS</th>
+<th colspan="5">
+
+🛰️ HTB TARGET DATABASE // RETIRED MACHINE REGISTRY
+
+</th>
+
+</tr>
+
+
+<tr>
+
+<th width="25%">
+🖥️ MACHINE
+</th>
+
+<th width="15%">
+🐧 OS
+</th>
+
+<th width="20%">
+🎯 DIFFICULTY
+</th>
+
+<th width="20%">
+⚡ STATUS
+</th>
+
+<th width="20%">
+📂 WRITEUP
+</th>
 
 </tr>
 
@@ -138,6 +164,10 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 <b>2Million</b>
 
+<br>
+
+<sub>HTB-001</sub>
+
 </td>
 
 <td align="center">
@@ -148,25 +178,28 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 <td align="center">
 
-🟢 EASY
+<img src="https://img.shields.io/badge/EASY-22C55E?style=for-the-badge"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/PWNED%20%26%20DOCUMENTED-22C55E?style=flat-square"/>
+🟢 COMPLETE
 
 </td>
 
 <td align="center">
 
 <a href="2Million/">
-🚀 OPEN
+
+🚀 ACCESS
+
 </a>
 
 </td>
 
 </tr>
+
 
 
 <tr>
@@ -175,6 +208,10 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 <b>Bedside</b>
 
+<br>
+
+<sub>HTB-002</sub>
+
 </td>
 
 <td align="center">
@@ -185,25 +222,28 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 <td align="center">
 
-🟢 EASY
+<img src="https://img.shields.io/badge/EASY-22C55E?style=for-the-badge"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/PWNED%20%26%20DOCUMENTED-22C55E?style=flat-square"/>
+🟢 COMPLETE
 
 </td>
 
 <td align="center">
 
 <a href="Bedside_HTB/">
-🚀 OPEN
+
+🚀 ACCESS
+
 </a>
 
 </td>
 
 </tr>
+
 
 
 <tr>
@@ -212,6 +252,10 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 <b>Connected</b>
 
+<br>
+
+<sub>HTB-003</sub>
+
 </td>
 
 <td align="center">
@@ -222,25 +266,28 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 <td align="center">
 
-🟡 MEDIUM
+<img src="https://img.shields.io/badge/MEDIUM-EAB308?style=for-the-badge"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/PWNED%20%26%20DOCUMENTED-EAB308?style=flat-square"/>
+🟢 COMPLETE
 
 </td>
 
 <td align="center">
 
 <a href="Connected/">
-🚀 OPEN
+
+🚀 ACCESS
+
 </a>
 
 </td>
 
 </tr>
+
 
 
 <tr>
@@ -249,6 +296,10 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 <b>DevHub</b>
 
+<br>
+
+<sub>HTB-004</sub>
+
 </td>
 
 <td align="center">
@@ -259,25 +310,28 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 <td align="center">
 
-🟡 MEDIUM
+<img src="https://img.shields.io/badge/MEDIUM-EAB308?style=for-the-badge"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/PWNED%20%26%20DOCUMENTED-EAB308?style=flat-square"/>
+🟢 COMPLETE
 
 </td>
 
 <td align="center">
 
 <a href="DevHub/">
-🚀 OPEN
+
+🚀 ACCESS
+
 </a>
 
 </td>
 
 </tr>
+
 
 
 <tr>
@@ -286,6 +340,10 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 <b>Enigma</b>
 
+<br>
+
+<sub>HTB-005</sub>
+
 </td>
 
 <td align="center">
@@ -296,25 +354,28 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 <td align="center">
 
-🟡 MEDIUM
+<img src="https://img.shields.io/badge/MEDIUM-EAB308?style=for-the-badge"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/PWNED%20%26%20DOCUMENTED-EAB308?style=flat-square"/>
+🟢 COMPLETE
 
 </td>
 
 <td align="center">
 
 <a href="Enigma_HTB/">
-🚀 OPEN
+
+🚀 ACCESS
+
 </a>
 
 </td>
 
 </tr>
+
 
 
 <tr>
@@ -323,6 +384,10 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 <b>PaperWork</b>
 
+<br>
+
+<sub>HTB-006</sub>
+
 </td>
 
 <td align="center">
@@ -333,20 +398,22 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 
 <td align="center">
 
-🟡 MEDIUM
+<img src="https://img.shields.io/badge/MEDIUM-EAB308?style=for-the-badge"/>
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/PWNED%20%26%20DOCUMENTED-EAB308?style=flat-square"/>
+🟢 COMPLETE
 
 </td>
 
 <td align="center">
 
 <a href="PaperWork/">
-🚀 OPEN
+
+🚀 ACCESS
+
 </a>
 
 </td>
@@ -365,90 +432,27 @@ ACCESS LEVEL  : PUBLIC ARCHIVE
 <div align="center">
 
 
-## 🛡️ ARCHIVE PROTOCOL
-
-
-<table width="100%">
-
-<tr>
-
-<td align="center">
-
-🔒
-<br>
-
-<b>DATA SOURCE</b>
-
-<br>
-
-Retired HTB Machines
-
-</td>
-
-
-<td align="center">
-
-🧪
-<br>
-
-<b>VALIDATION</b>
-
-<br>
-
-Lab Reproduction
-
-</td>
-
-
-<td align="center">
-
-📖
-<br>
-
-<b>CONTENT</b>
-
-<br>
-
-Technical Analysis
-
-</td>
-
-
-<td align="center">
-
-🌐
-<br>
-
-<b>RELEASE</b>
-
-<br>
-
-Educational Use
-
-</td>
-
-
-</tr>
-
-</table>
-
-
-<br>
+## 🔐 OPERATOR SECURITY CLEARANCE
 
 
 <pre><code>
-┌─────────────────────────────────────────────┐
-│  SECURITY NOTICE                            │
-├─────────────────────────────────────────────┤
-│  ✔ Retired machines only                   │
-│  ✔ Research documentation                  │
-│  ✔ Defensive security learning             │
-│                                             │
-│  ✘ No active solutions                     │
-│  ✘ No credentials                          │
-│  ✘ No private keys                         │
-│  ✘ No VPN files                            │
-└─────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                 HTB WRITEUP RELEASE CONTROL                  │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🟢 SOURCE        : Retired Hack The Box Machines            │
+│  🟢 PURPOSE       : Security Research & Learning             │
+│  🟢 VALIDATION    : Personal Lab Reproduction                │
+│  🟢 CONTENT       : Enumeration + Exploitation Analysis      │
+│                                                              │
+│  🔴 RESTRICTED    : Active Machine Solutions                 │
+│  🔴 RESTRICTED    : Credentials                              │
+│  🔴 RESTRICTED    : Private Keys                             │
+│  🔴 RESTRICTED    : VPN Configuration Files                  │
+│                                                              │
+│  STATUS : PUBLIC RELEASE APPROVED                            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 </code></pre>
 
 
