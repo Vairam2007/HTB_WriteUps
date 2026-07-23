@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=9FEF00&center=true&vCenter=true&width=1000&lines=%24+whoami+%E2%86%92+htb%40operator;%24+target+%E2%86%92+retired+machines;%24+workflow+%E2%86%92+enumeration+%7C+exploitation+%7C+privilege-escalation;%24+status+%E2%86%92+archive+online"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:111827,60:064E3B,100:9FEF00&height=190&section=header&text=HTB%20WRITEUPS&fontSize=48&fontColor=9FEF00&animation=fadeIn&fontAlignY=38&desc=Retired%20Hack%20The%20Box%20Machines%20%E2%80%A2%20Enumeration%20%E2%80%A2%20Exploitation%20%E2%80%A2%20Privilege%20Escalation&descAlignY=62&descSize=15"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:111827,60:064E3B,100:9FEF00&height=190&section=header&text=HTB%20WRITEUPS&fontSize=48&fontColor=9FEF00&animation=fadeIn&fontAlignY=38&desc=Retired%20Hack%20The%20Box%20Machines%20%E2%80%A2%20Enumeration%20%E2%80%A2%20Exploitation%20%E2%80%A2%20Privilege%20Escalation&descAlignY=62&descSize=15"/>
-
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=9FEF00&center=true&vCenter=true&width=940&lines=%24+whoami+%E2%86%92+offensive-security-student;%24+focus+%E2%86%92+enumeration+%7C+exploitation+%7C+privilege-escalation;%24+repository+%E2%86%92+retired+HTB+writeups;%24+status+%E2%86%92+online+%26+actively+maintained" alt="Typing SVG"/> 
+ 
 <br>
 
 <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
@@ -47,69 +47,87 @@ ACCESS      : PUBLIC ARCHIVE
 # 🛰️ OPERATOR DASHBOARD
 
 
-<table width="100%" cellpadding="0" cellspacing="0" border="1"
-style="border-collapse:collapse; table-layout:fixed;">
 
 
-<tr>
-
-<th style="padding:12px;">🟢 EASY</th>
-<th style="padding:12px;">🟡 MEDIUM</th>
-<th style="padding:12px;">🔴 HARD</th>
-<th style="padding:12px;">💀 TOTAL</th>
-<th style="padding:12px;">🚦 STATUS</th>
-
-</tr>
-
+<table>
 
 <tr>
 
-<td align="center" style="padding:12px;">
-
-<b>02</b><br>
-Beginner Targets
-
-</td>
+<td align="center" width="180">
 
 
-<td align="center" style="padding:12px;">
 
-<b>04</b><br>
-Intermediate Targets
-
-</td>
+### 🟢 Easy
 
 
-<td align="center" style="padding:12px;">
 
-<b>00</b><br>
-Advanced Targets
+<h1>2</h1>
+
+
+
+Completed
+
+
 
 </td>
 
+<td align="center" width="180">
 
-<td align="center" style="padding:12px;">
 
-<b>06</b><br>
-Machines
+
+### 🟡 Medium
+
+
+
+<h1>4</h1>
+
+
+
+Completed
+
+
 
 </td>
 
+<td align="center" width="180">
 
-<td align="center" style="padding:20px;">
 
-🟢 ONLINE<br>
-ACTIVE
+
+### 🔴 Hard
+
+
+
+<h1>0</h1>
+
+
+
+Completed
+
+
 
 </td>
 
+<td align="center" width="180">
+
+
+
+### 💀 Total
+
+
+
+<h1>6</h1>
+
+
+
+Archived
+
+
+
+</td>
 
 </tr>
-
 
 </table>
-
-</div>
 
 
 
@@ -366,7 +384,55 @@ style="border-collapse:collapse; table-layout:fixed;">
 ---
 
 
+
+<table align="center">
+
+<tr>
+
+<td width="92%" valign="top">
+
+
+
+This repository contains **writeups for retired Hack The Box machines** and is maintained as part of my **offensive security and red team training**.
+
+
+
+The content is shared strictly for **educational and defensive security research** purposes.
+
+
+
+**🔒 Not included in this repository**
+
+
+
+* Active machine solutions
+
+* Credentials
+
+* VPN files
+
+* Private keys
+
+* Challenge flags
+
+* Unreleased HTB content
+
+
+
+All published material has been **sanitized for public release**.
+
+
+
+</td>
+
+</tr>
+
+</table>
+
 <div align="center">
+
+
+<td width="92%" valign="top">
 
 
 ## 🧬 SESSION TERMINATION
