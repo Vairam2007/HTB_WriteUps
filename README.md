@@ -42,21 +42,20 @@ ACCESS      : PUBLIC ARCHIVE
 
 
 ---
-
 <div align="center">
 
-## 🛰️ OPERATOR DASHBOARD
+# 🛰️ OPERATOR DASHBOARD
 
 
-<table width="100%">
+<table width="100%" cellpadding="20" cellspacing="0" border="1">
 
 <tr>
 
-<th>🟢 EASY</th>
-<th>🟡 MEDIUM</th>
-<th>🔴 HARD</th>
-<th>💀 TOTAL</th>
-<th>🚦 STATUS</th>
+<th width="20%">🟢 EASY</th>
+<th width="20%">🟡 MEDIUM</th>
+<th width="20%">🔴 HARD</th>
+<th width="20%">💀 TOTAL</th>
+<th width="20%">🚦 STATUS</th>
 
 </tr>
 
@@ -65,9 +64,7 @@ ACCESS      : PUBLIC ARCHIVE
 
 <td align="center">
 
-<b>02</b>
-
-<br>
+<h2>02</h2>
 
 Beginner Targets
 
@@ -76,9 +73,7 @@ Beginner Targets
 
 <td align="center">
 
-<b>04</b>
-
-<br>
+<h2>04</h2>
 
 Intermediate Targets
 
@@ -87,9 +82,7 @@ Intermediate Targets
 
 <td align="center">
 
-<b>00</b>
-
-<br>
+<h2>00</h2>
 
 Advanced Targets
 
@@ -98,18 +91,18 @@ Advanced Targets
 
 <td align="center">
 
-<b>06</b>
+<h2>06</h2>
 
-<br>
-
-Machines
+Machines Logged
 
 </td>
 
 
 <td align="center">
 
-🟢 ONLINE
+<h2>🟢</h2>
+
+ONLINE
 
 <br>
 
@@ -119,6 +112,7 @@ ACTIVE
 
 
 </tr>
+
 
 </table>
 
@@ -131,19 +125,24 @@ ACTIVE
 
 <div align="center">
 
-## 📚 MACHINE DATABASE
+
+# 📚 MACHINE DATABASE
 
 
-<table width="100%">
+<table width="100%" cellpadding="15" cellspacing="0" border="1">
 
 
 <tr>
 
-<th>🖥️ MACHINE</th>
-<th>🐧 PLATFORM</th>
-<th>🎯 DIFFICULTY</th>
-<th>🚦 STATUS</th>
-<th>📂 WRITEUP</th>
+<th width="25%">🖥️ MACHINE</th>
+
+<th width="20%">🐧 PLATFORM</th>
+
+<th width="20%">🎯 DIFFICULTY</th>
+
+<th width="20%">🚦 STATUS</th>
+
+<th width="15%">📂 WRITEUP</th>
 
 </tr>
 
@@ -165,13 +164,13 @@ ACTIVE
 
 <td align="center">
 
-🟢 Easy
+🟢 EASY
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square">
+✅ COMPLETE
 
 </td>
 
@@ -186,7 +185,6 @@ ACTIVE
 </td>
 
 </tr>
-
 
 
 
@@ -206,13 +204,13 @@ ACTIVE
 
 <td align="center">
 
-🟢 Easy
+🟢 EASY
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square">
+✅ COMPLETE
 
 </td>
 
@@ -227,7 +225,6 @@ ACTIVE
 </td>
 
 </tr>
-
 
 
 
@@ -247,13 +244,13 @@ ACTIVE
 
 <td align="center">
 
-🟡 Medium
+🟡 MEDIUM
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square">
+✅ COMPLETE
 
 </td>
 
@@ -268,7 +265,6 @@ ACTIVE
 </td>
 
 </tr>
-
 
 
 
@@ -288,13 +284,13 @@ ACTIVE
 
 <td align="center">
 
-🟡 Medium
+🟡 MEDIUM
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square">
+✅ COMPLETE
 
 </td>
 
@@ -309,7 +305,6 @@ ACTIVE
 </td>
 
 </tr>
-
 
 
 
@@ -329,13 +324,13 @@ ACTIVE
 
 <td align="center">
 
-🟡 Medium
+🟡 MEDIUM
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square">
+✅ COMPLETE
 
 </td>
 
@@ -350,7 +345,6 @@ ACTIVE
 </td>
 
 </tr>
-
 
 
 
@@ -370,13 +364,13 @@ ACTIVE
 
 <td align="center">
 
-🟡 Medium
+🟡 MEDIUM
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square">
+✅ COMPLETE
 
 </td>
 
@@ -395,6 +389,7 @@ ACTIVE
 
 </table>
 
+
 </div>
 
 
@@ -404,51 +399,48 @@ ACTIVE
 <div align="center">
 
 
-## 🔐 RELEASE CONTROL
+## 🧬 SESSION TERMINATION
 
 
-<table width="100%">
-
-
-<tr>
-
-<th>🔒 SOURCE</th>
-<th>🧪 VALIDATION</th>
-<th>📖 CONTENT</th>
-<th>🌐 RELEASE</th>
-
-</tr>
+<table width="100%" cellpadding="20">
 
 
 <tr>
 
 <td align="center">
 
-Retired HTB Machines
+
+```
+╔══════════════════════════════════════════════╗
+║                                              ║
+║        🛰️ OPERATOR SESSION CLOSED            ║
+║                                              ║
+║   TARGET DATABASE : DISCONNECTED             ║
+║   WRITEUP ARCHIVE : SYNCHRONIZED             ║
+║   HTB RECORDS    : PRESERVED                 ║
+║                                              ║
+║   STATUS         : OFFLINE                   ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+
+<br>
+
+
+```
+$ shutdown --archive --secure
+```
+
+<br>
+
+
+⚡ **Retired HTB Machines**  
+🔎 **Evidence Based Analysis**  
+🧪 **Reproducible Security Research**  
+
 
 </td>
-
-
-<td align="center">
-
-Lab Reproduction
-
-</td>
-
-
-<td align="center">
-
-Technical Analysis
-
-</td>
-
-
-<td align="center">
-
-Educational Research
-
-</td>
-
 
 </tr>
 
@@ -457,68 +449,9 @@ Educational Research
 
 
 <br>
-
-
-<table width="100%">
-
-
-<tr>
-
-<td align="center">
-
-🚫 No Active Machine Solutions
-
-</td>
-
-<td align="center">
-
-🚫 No Credentials
-
-</td>
-
-<td align="center">
-
-🚫 No Private Keys
-
-</td>
-
-<td align="center">
-
-🚫 No VPN Files
-
-</td>
-
-</tr>
-
-
-</table>
-
-
-</div>
-
-
----
-
-
-<div align="center">
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:9FEF00&height=3"/>
-
-
-<br>
-
-
-<pre><code>
-┌──(htb㉿operator)-[~/writeups]
-
-└─$ logout
-
-
-Connection closed.
-
-⚡ Retired HTB • Evidence-Driven Writeups • Repeatable Methodology
-</code></pre>
 
 
 </div>
