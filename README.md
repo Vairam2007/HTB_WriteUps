@@ -9,11 +9,8 @@
 <br>
 
 <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
-
 <img src="https://img.shields.io/badge/Retired%20Machines-111827?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/Offensive%20Security-EF4444?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/Writeups-06-00FF41?style=for-the-badge">
 
 </div>
@@ -21,15 +18,10 @@
 
 ---
 
-
-<div align="center">
-
-# 🖥️ OPERATOR TERMINAL
-
-</div>
+## 🖥️ OPERATOR TERMINAL
 
 
-```bash
+<pre><code>
 ┌──(htb㉿operator)-[~/writeups]
 
 └─$ ./status.sh
@@ -46,71 +38,398 @@
 SYSTEM      : OPERATIONAL
 DATABASE    : RETIRED HTB MACHINES
 ACCESS      : PUBLIC ARCHIVE
+</code></pre>
+
+
+---
 <div align="center">
-🛰️ OPERATOR DASHBOARD
-<table width="100%" cellspacing="0" cellpadding="0" border="1"> <tr> <th>🟢 EASY</th> <th>🟡 MEDIUM</th> <th>🔴 HARD</th> <th>💀 TOTAL</th> <th>🚦 STATUS</th> </tr> <tr> <td align="center">
+
+# 🛰️ OPERATOR DASHBOARD
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="1"
+style="border-collapse:collapse; table-layout:fixed;">
+
+
+<tr>
+
+<th style="padding:12px;">🟢 EASY</th>
+<th style="padding:12px;">🟡 MEDIUM</th>
+<th style="padding:12px;">🔴 HARD</th>
+<th style="padding:12px;">💀 TOTAL</th>
+<th style="padding:12px;">🚦 STATUS</th>
+
+</tr>
+
+
+<tr>
+
+<td align="center" style="padding:12px;">
 
 <b>02</b><br>
 Beginner Targets
 
-</td> <td align="center">
+</td>
+
+
+<td align="center" style="padding:12px;">
 
 <b>04</b><br>
 Intermediate Targets
 
-</td> <td align="center">
+</td>
+
+
+<td align="center" style="padding:12px;">
 
 <b>00</b><br>
 Advanced Targets
 
-</td> <td align="center">
+</td>
+
+
+<td align="center" style="padding:12px;">
 
 <b>06</b><br>
 Machines
 
-</td> <td align="center">
+</td>
+
+
+<td align="center" style="padding:20px;">
 
 🟢 ONLINE<br>
 ACTIVE
 
-</td> </tr> </table> </div>
+</td>
+
+
+</tr>
+
+
+</table>
+
+</div>
+
+
+
+---
+
+
+
 <div align="center">
-📚 MACHINE DATABASE
-<table width="100%" cellspacing="0" cellpadding="0" border="1"> <tr> <th>🖥️ MACHINE</th> <th>🐧 PLATFORM</th> <th>🎯 DIFFICULTY</th> <th>🚦 STATUS</th> <th>📂 WRITEUP</th> </tr> <tr> <td align="center"><b>2Million</b></td> <td align="center">🐧 Linux</td> <td align="center">🟢 EASY</td> <td align="center">✅ COMPLETE</td> <td align="center">🚀 OPEN</td> </tr> <tr> <td align="center"><b>Bedside</b></td> <td align="center">🐧 Linux</td> <td align="center">🟢 EASY</td> <td align="center">✅ COMPLETE</td> <td align="center">🚀 OPEN</td> </tr> <tr> <td align="center"><b>Connected</b></td> <td align="center">🐧 Linux</td> <td align="center">🟡 MEDIUM</td> <td align="center">✅ COMPLETE</td> <td align="center">🚀 OPEN</td> </tr> <tr> <td align="center"><b>DevHub</b></td> <td align="center">🐧 Linux</td> <td align="center">🟡 MEDIUM</td> <td align="center">✅ COMPLETE</td> <td align="center">🚀 OPEN</td> </tr> <tr> <td align="center"><b>Enigma</b></td> <td align="center">🐧 Linux</td> <td align="center">🟡 MEDIUM</td> <td align="center">✅ COMPLETE</td> <td align="center">🚀 OPEN</td> </tr> <tr> <td align="center"><b>PaperWork</b></td> <td align="center">🐧 Linux</td> <td align="center">🟡 MEDIUM</td> <td align="center">✅ COMPLETE</td> <td align="center">🚀 OPEN</td> </tr> </table> </div>
+
+
+# 📚 MACHINE DATABASE
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="1"
+style="border-collapse:collapse; table-layout:fixed;">
+
+
+<tr>
+
+<th width="25%" style="padding:12px;">🖥️ MACHINE</th>
+
+<th width="20%" style="padding:12px;">🐧 PLATFORM</th>
+
+<th width="20%" style="padding:12px;">🎯 DIFFICULTY</th>
+
+<th width="20%" style="padding:12px;">🚦 STATUS</th>
+
+<th width="15%" style="padding:12px;">📂 WRITEUP</th>
+
+</tr>
+
+
+
+<tr>
+
+<td align="center" style="padding:12px;">
+
+<b>2Million</b>
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🐧 Linux
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🟢 EASY
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+✅ COMPLETE
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🚀 OPEN
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td align="center" style="padding:12px;">
+
+<b>Bedside</b>
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🐧 Linux
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🟢 EASY
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+✅ COMPLETE
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🚀 OPEN
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td align="center" style="padding:12px;">
+
+<b>Connected</b>
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🐧 Linux
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🟡 MEDIUM
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+✅ COMPLETE
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🚀 OPEN
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td align="center" style="padding:12px;">
+
+<b>DevHub</b>
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🐧 Linux
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🟡 MEDIUM
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+✅ COMPLETE
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🚀 OPEN
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td align="center" style="padding:12px;">
+
+<b>Enigma</b>
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🐧 Linux
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🟡 MEDIUM
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+✅ COMPLETE
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🚀 OPEN
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td align="center" style="padding:12px;">
+
+<b>PaperWork</b>
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🐧 Linux
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🟡 MEDIUM
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+✅ COMPLETE
+
+</td>
+
+<td align="center" style="padding:12px;">
+
+🚀 OPEN
+
+</td>
+
+</tr>
+
+
+</table>
+
+
+</div>
+
+---
+
+
 <div align="center">
-🧬 SESSION TERMINATION
-<table width="100%" cellpadding="20"> <tr> <td align="center">
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║  ┌──────────────────────────────────────────────┐    ║
-║  │                                              │    ║
-║  │          🛰️ OPERATOR SESSION CLOSED          │    ║
-║  │                                              │    ║
-║  │     TARGET DATABASE : DISCONNECTED           │    ║
-║  │     WRITEUP ARCHIVE : SYNCHRONIZED           │    ║
-║  │     HTB RECORDS    : PRESERVED               │    ║
-║  │                                              │    ║
-║  │     STATUS         : OFFLINE                 │    ║
-║  │                                              │    ║
-║  └──────────────────────────────────────────────┘    ║
-║                                                      ║
-║             $ shutdown --archive --secure            ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-<br>
-              ███████████████████████
-              █                     █
-              █   SIGNAL LOST...    █
-              █                     █
-              █  CONNECTION CLOSED  █
-              █                     █
-              ███████████████████████
-                       ||
-                       ||
-                 ─────────────
-                /             \
-               /  OPERATOR TV  \
-              /_________________\
+
+
+## 🧬 SESSION TERMINATION
+
+
+<table width="100%" cellpadding="20">
+
+
+<tr>
+
+<td align="center">
+
+
+```
+╔══════════════════════════════════════════════╗
+║  ╔══════════════════════════════════════════════╗
+║  ║                                              ║
+║  ║          🛰️ OPERATOR SESSION CLOSED          ║
+║  ║                                              ║
+║  ║   TARGET DATABASE : DISCONNECTED             ║
+║  ║   WRITEUP ARCHIVE : SYNCHRONIZED             ║
+║  ║   HTB RECORDS    : PRESERVED                 ║
+║  ║                                              ║
+║  ║   STATUS         : OFFLINE                   ║
+║  ║                                              ║
+║  ╚══════════════════════════════════════════════╝
+╚══════════════════════════════════════════════╝
+```
+
+
 <br>
 
-⚡ Retired HTB Machines
+
+```
+╔══════════════════════════════════════════════╗
+║  ╔══════════════════════════════════════════════╗
+║  ║                                              ║
+║  ║     $ shutdown --archive --secure
+║  ║                                              ║
+║  ╚══════════════════════════════════════════════╝
+╚══════════════════════════════════════════════╝
+```
+
+<br>
+
+
+⚡ **Retired HTB Machines**  
+🔎 **Evidence Based Analysis**  
+🧪 **Reproducible Security Research**  
+
+
+</td>
+
+</tr>
+
+
+</table>
+
+
+<br>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:9FEF00&height=3"/>
+
+
+</div>
