@@ -14,9 +14,11 @@
 <img src="https://img.shields.io/badge/Writeups-06-00FF41?style=for-the-badge">
 
 </div>
-
+<br>
 
 ---
+
+<br>
 
 ## 🖥️ OPERATOR TERMINAL
 
@@ -40,8 +42,12 @@ DATABASE    : RETIRED HTB MACHINES
 ACCESS      : PUBLIC ARCHIVE
 </code></pre>
 
+<br>
 
 ---
+
+
+<br>
 <div align="center">
 
 # 🛰️ OPERATOR DASHBOARD
@@ -129,11 +135,12 @@ Archived
 
 </table>
 
-
+<br>
 
 ---
 
 
+<br>
 
 <div align="center">
 
@@ -171,7 +178,7 @@ style="border-collapse:collapse; table-layout:fixed;">
 
 <td align="center" style="padding:12px;">
 
-🐧 Linux
+<img src="https://cdn.simpleicons.org/linux/9FEF00" width="16"/> Linux
 
 </td>
 
@@ -207,7 +214,7 @@ style="border-collapse:collapse; table-layout:fixed;">
 
 <td align="center" style="padding:12px;">
 
-🐧 Linux
+<img src="https://cdn.simpleicons.org/linux/9FEF00" width="16"/> Linux
 
 </td>
 
@@ -243,7 +250,7 @@ style="border-collapse:collapse; table-layout:fixed;">
 
 <td align="center" style="padding:12px;">
 
-🐧 Linux
+<img src="https://cdn.simpleicons.org/linux/9FEF00" width="16"/> Linux
 
 </td>
 
@@ -279,7 +286,7 @@ style="border-collapse:collapse; table-layout:fixed;">
 
 <td align="center" style="padding:12px;">
 
-🐧 Linux
+<img src="https://cdn.simpleicons.org/linux/9FEF00" width="16"/> Linux
 
 </td>
 
@@ -315,7 +322,7 @@ style="border-collapse:collapse; table-layout:fixed;">
 
 <td align="center" style="padding:12px;">
 
-🐧 Linux
+<img src="https://cdn.simpleicons.org/linux/9FEF00" width="16"/> Linux
 
 </td>
 
@@ -351,7 +358,7 @@ style="border-collapse:collapse; table-layout:fixed;">
 
 <td align="center" style="padding:12px;">
 
-🐧 Linux
+<img src="https://cdn.simpleicons.org/linux/9FEF00" width="16"/> Linux
 
 </td>
 
@@ -381,11 +388,13 @@ style="border-collapse:collapse; table-layout:fixed;">
 
 </div>
 
+<br>
+
 ---
 
 
-
-<table align="center">
+<br>
+<table >
 
 <tr>
 
@@ -429,11 +438,18 @@ All published material has been **sanitized for public release**.
 
 </table>
 
-<div align="center">
+<div>
 
 
 <td width="92%" valign="top">
 
+<br>
+
+
+---
+
+
+<br>
 
 ## 🧬 SESSION TERMINATION
 
