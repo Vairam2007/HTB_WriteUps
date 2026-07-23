@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:111827,50:0F172A,100:065F46&text=OPERATOR%20STATUS%20•%20HTB%20ARCHIVE%20ONLINE&fontSize=24&fontColor=9FEF00&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:111827,50:0F172A,100:065F46&text=OPERATOR%20STATUS%20•%20HTB%20ARCHIVE%20ONLINE&fontSize=28&fontColor=9FEF00&animation=fadeIn"/>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <table align="center">
 <tr>
-<td width="62%" valign="top">
+<td width="100%" valign="top">
 
 ### 🖥️ Operator Console
 
@@ -35,22 +35,14 @@
 └─$ ./status.sh
 
 [+] Retired machines documented
-[+] Enumeration findings verified
-[+] Exploitation chains reproduced
-[+] PrivEsc paths analyzed
-[+] Evidence sanitized for release
-[+] Markdown rendering optimized
+[+] Exploitation chains reproduced in lab
+[+] Privilege escalation paths analyzed
+[+] Repository sanitized for public release
+[+] README rendering optimized for GitHub desktop/mobile
 
 ARCHIVE STATUS : OPERATIONAL
 HTB MODE       : RETIRED MACHINES
 LAST SYNC      : SUCCESSFUL</code></pre>
-
-</td>
-<td width="38%" valign="top" align="center">
-
-### 📡 Live Dashboard
-
-<img src="https://img.shields.io/badge/EASY-2-22C55E?style=for-the-badge"/><br><br> <img src="https://img.shields.io/badge/MEDIUM-4-EAB308?style=for-the-badge"/><br><br> <img src="https://img.shields.io/badge/HARD-0-EF4444?style=for-the-badge"/><br><br> <img src="https://img.shields.io/badge/TOTAL-6-111827?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -60,7 +52,22 @@ LAST SYNC      : SUCCESSFUL</code></pre>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:111827,50:0F172A,100:065F46&text=MACHINE%20INDEX&fontSize=24&fontColor=9FEF00&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:111827,50:0F172A,100:065F46&text=🛰️%20OPERATOR%20DASHBOARD&fontSize=28&fontColor=9FEF00&animation=fadeIn"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/EASY-2-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MEDIUM-4-EAB308?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HARD-0-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TOTAL-6-111827?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:111827,50:0F172A,100:065F46&text=📚%20MACHINE%20INDEX&fontSize=28&fontColor=9FEF00&animation=fadeIn"/>
 
 <br>
 
@@ -129,7 +136,40 @@ LAST SYNC      : SUCCESSFUL</code></pre>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:111827,50:0F172A,100:065F46&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:111827,50:0F172A,100:065F46&text=⚠️%20PUBLIC%20RELEASE%20NOTICE&fontSize=24&fontColor=9FEF00&animation=fadeIn"/>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="92%" valign="top">
+
+This repository contains **writeups for retired Hack The Box machines** and is maintained as part of my **offensive security and red team training**.
+
+The content is shared strictly for **educational and defensive security research** purposes.
+
+**Not included in this repository**
+
+* Active machine solutions
+* Credentials
+* VPN files
+* Private keys
+* Challenge flags
+* Unreleased HTB content
+
+All published material has been **sanitized for public release**.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:0F172A,100:065F46&height=5&section=footer"/>
 
 <br>
 
