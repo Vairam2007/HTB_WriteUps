@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=HTB%20ARCHIVE&fontSize=56&color=0:000000,35:0A0A0A,70:052E16,100:9FEF00&stroke=9FEF00&strokeWidth=1&fontColor=9FEF00&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=900&color=9FEF00&center=true&vCenter=true&width=980&lines=%24+sudo+su+operator;%24+load+module+--recon;%24+load+module+--exploit;%24+load+module+--privesc;%24+publish+--retired+htb+writeups"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:020617,35:0F172A,70:111827,100:9FEF00&text=ROOT%20ACCESS%20ARCHIVE&fontSize=52&fontColor=9FEF00&fontAlignY=42&desc=Retired%20Hack%20The%20Box%20•%20Offensive%20Security%20Lab&descAlignY=66&animation=fadeIn"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=900&color=9FEF00&center=true&vCenter=true&width=980&lines=initializing+operator+workspace...;loading+recon+modules...;loading+privilege+escalation+database...;publishing+retired+HTB+writeups"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/Red%20Team-FF003C?style=for-the-badge&logo=protonvpn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali-111827?style=for-the-badge&logo=kalilinux&logoColor=9FEF00"/>
-<img src="https://img.shields.io/badge/Status-ONLINE-00FF41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operator-ROOT-00FF41?style=for-the-badge&logo=gnubash&logoColor=black"/>
+<img src="https://img.shields.io/badge/Archive-Retired%20Machines-111827?style=for-the-badge&logo=readthedocs&logoColor=9FEF00"/>
 
 </div>
 
@@ -17,76 +18,94 @@
 
 <div align="center">
 
-# 🧬 OPERATOR BRIEF
+# ☣ OPERATOR MANIFEST
 
-**Retired Hack The Box machines documented as a personal offensive-security archive.**
+A curated archive of **retired Hack The Box machines** analyzed through a **red-team operator workflow**.
 
-**Enumeration → Exploitation → Privilege Escalation → Evidence → Report**
+**Reconnaissance → Enumeration → Foothold → Privilege Escalation → Evidence Preservation**
 
 </div>
 
 ---
 
-# 🖥 TERMINAL // LIVE STATUS
-
-<pre><code>┌──(operator㉿archive)-[~/machines]
-└─$ ./status.sh
-
-[+] Recon profiles loaded
-[+] Wordlists synchronized
-[+] Evidence database mounted
-[+] PrivEsc notes indexed
-[+] Writeup pipeline operational
-
-Current Session : ACTIVE
-Repository      : PUBLIC / SANITIZED
-Environment     : HTB LAB
-</code></pre>
-
----
-
-<div align="center">
-
-# 📊 OPERATOR GRID
+# 🧪 SESSION SNAPSHOT
 
 <table>
 <tr>
-<td align="center" width="210">
+<td width="58%" valign="top">
 
-<img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="44"/><br><br>
+### Terminal Feed
 
-### Machines
+<pre><code>operator@archive:~$ ./bootstrap
+
+[+] vpn connected
+[+] targets synchronized
+[+] wordlists mounted
+[+] evidence store online
+[+] report pipeline ready
+
+operator@archive:~$ cat current_mission
+
+MISSION: RETIRED HTB ANALYSIS
+MODE   : OFFENSIVE LAB
+STATUS : ACTIVE
+</code></pre>
+
+</td>
+<td width="42%" valign="top">
+
+### Live Indicators
+
+<img src="https://img.shields.io/badge/VPN-CONNECTED-00FF41?style=flat-square&logo=openvpn&logoColor=black"/><br> <img src="https://img.shields.io/badge/RECON-SYNCHRONIZED-2563EB?style=flat-square"/><br> <img src="https://img.shields.io/badge/PRIVESC-VERIFIED-059669?style=flat-square"/><br> <img src="https://img.shields.io/badge/EVIDENCE-SANITIZED-7C3AED?style=flat-square"/><br> <img src="https://img.shields.io/badge/REPORT-PUBLISHED-111827?style=flat-square&logo=readthedocs&logoColor=9FEF00"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📈 OPERATION METRICS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="220">
+
+<img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="46"/><br><br>
+
+### Targets
 
 <h1>18</h1>
 
-Documented targets
+Retired machines documented
 
 </td>
-<td align="center" width="210">
+<td align="center" width="220">
 
-<img src="https://cdn.simpleicons.org/kalilinux/9FEF00" width="44"/><br><br>
+<img src="https://cdn.simpleicons.org/kalilinux/9FEF00" width="46"/><br><br>
 
 ### Footholds
 
 <h1>18</h1>
 
-Initial access achieved
+Initial access reproduced
 
 </td>
-<td align="center" width="210">
+<td align="center" width="220">
 
-<img src="https://cdn.simpleicons.org/linux/9FEF00" width="44"/><br><br>
+<img src="https://cdn.simpleicons.org/linux/9FEF00" width="46"/><br><br>
 
-### Root Paths
+### Root
 
 <h1>18</h1>
 
-Privilege escalation verified
+Privilege escalation confirmed
 
 </td>
-<td align="center" width="210">
+<td align="center" width="220">
 
-<img src="https://cdn.simpleicons.org/readthedocs/9FEF00" width="44"/><br><br>
+<img src="https://cdn.simpleicons.org/readthedocs/9FEF00" width="46"/><br><br>
 
 ### Reports
 
@@ -102,68 +121,68 @@ Published writeups
 
 ---
 
-# ⚡ ATTACK PIPELINE
+# 🛰 KILL CHAIN MATRIX
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="170" bgcolor="#0D1117">
+<td align="center" width="170" bgcolor="#0B1220">
 
-<img src="https://cdn.simpleicons.org/nmap/2563EB" width="42"/><br><br>
+<img src="https://cdn.simpleicons.org/nmap/2563EB" width="40"/><br><br>
 
-<img src="https://img.shields.io/badge/STAGE%2001-RECON-2563EB?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/PHASE%2001-RECON-2563EB?style=for-the-badge"/><br><br>
 
 Port discovery<br>
 Service fingerprinting<br>
-Attack surface mapping
+Surface mapping
 
 </td>
-<td align="center" width="26"><h2>➜</h2></td>
-<td align="center" width="170" bgcolor="#0D1117">
+<td align="center" width="28"><h2>▶</h2></td>
+<td align="center" width="170" bgcolor="#0B1220">
 
-<img src="https://cdn.simpleicons.org/wireshark/7C3AED" width="42"/><br><br>
+<img src="https://cdn.simpleicons.org/wireshark/7C3AED" width="40"/><br><br>
 
-<img src="https://img.shields.io/badge/STAGE%2002-ENUM-7C3AED?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/PHASE%2002-ENUM-7C3AED?style=for-the-badge"/><br><br>
 
 Users & groups<br>
 Web content<br>
 SMB / LDAP / RPC
 
 </td>
-<td align="center" width="26"><h2>➜</h2></td>
-<td align="center" width="170" bgcolor="#0D1117">
+<td align="center" width="28"><h2>▶</h2></td>
+<td align="center" width="170" bgcolor="#0B1220">
 
-<img src="https://cdn.simpleicons.org/metasploit/DC2626" width="42"/><br><br>
+<img src="https://cdn.simpleicons.org/metasploit/DC2626" width="40"/><br><br>
 
-<img src="https://img.shields.io/badge/STAGE%2003-EXPLOIT-DC2626?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/PHASE%2003-ACCESS-DC2626?style=for-the-badge"/><br><br>
 
 RCE primitives<br>
-Credential access<br>
+Credential capture<br>
 Session establishment
 
 </td>
-<td align="center" width="26"><h2>➜</h2></td>
-<td align="center" width="170" bgcolor="#0D1117">
+<td align="center" width="28"><h2>▶</h2></td>
+<td align="center" width="170" bgcolor="#0B1220">
 
-<img src="https://cdn.simpleicons.org/gnubash/059669" width="42"/><br><br>
+<img src="https://cdn.simpleicons.org/gnubash/059669" width="40"/><br><br>
 
-<img src="https://img.shields.io/badge/STAGE%2004-PRIVESC-059669?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/PHASE%2004-ROOT-059669?style=for-the-badge"/><br><br>
 
 Sudo abuse<br>
 Kernel vectors<br>
 AD privilege paths
 
 </td>
-<td align="center" width="26"><h2>➜</h2></td>
-<td align="center" width="170" bgcolor="#0D1117">
+<td align="center" width="28"><h2>▶</h2></td>
+<td align="center" width="170" bgcolor="#0B1220">
 
-<img src="https://cdn.simpleicons.org/git/9FEF00" width="42"/><br><br>
+<img src="https://cdn.simpleicons.org/git/9FEF00" width="40"/><br><br>
 
-<img src="https://img.shields.io/badge/STAGE%2005-REPORT-111827?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/PHASE%2005-EVIDENCE-111827?style=for-the-badge"/><br><br>
 
-Evidence capture<br>
-Reproduction steps<br>
+Proof capture<br>
+Timeline reconstruction<br>
 Final documentation
 
 </td>
@@ -174,13 +193,13 @@ Final documentation
 
 ---
 
-# 🎯 MACHINE MATRIX
+# 🎯 ACTIVE ARCHIVE
 
 <div align="center">
 
 <table>
 <tr>
-<th>Target</th>
+<th>Machine</th>
 <th>Platform</th>
 <th>Difficulty</th>
 <th>State</th>
@@ -191,42 +210,42 @@ Final documentation
 <td><img src="https://cdn.simpleicons.org/linux/9FEF00" width="16"/> Linux</td>
 <td>🟢 Easy</td>
 <td><img src="https://img.shields.io/badge/COMPLETE-00FF41?style=flat-square"/></td>
-<td><a href="2Million/"><img src="https://img.shields.io/badge/OPEN-0D1117?style=flat-square&logo=readthedocs&logoColor=9FEF00"/></a></td>
+<td><a href="2Million/"><img src="https://img.shields.io/badge/OPEN-020617?style=flat-square&logo=readthedocs&logoColor=9FEF00"/></a></td>
 </tr>
 <tr>
 <td><strong>DevHub</strong></td>
 <td><img src="https://cdn.simpleicons.org/linux/9FEF00" width="16"/> Linux</td>
 <td>🟡 Medium</td>
 <td><img src="https://img.shields.io/badge/COMPLETE-00FF41?style=flat-square"/></td>
-<td><a href="DevHub/"><img src="https://img.shields.io/badge/OPEN-0D1117?style=flat-square&logo=readthedocs&logoColor=9FEF00"/></a></td>
+<td><a href="DevHub/"><img src="https://img.shields.io/badge/OPEN-020617?style=flat-square&logo=readthedocs&logoColor=9FEF00"/></a></td>
 </tr>
 <tr>
 <td><strong>Enigma</strong></td>
 <td><img src="https://cdn.simpleicons.org/linux/9FEF00" width="16"/> Linux</td>
 <td>🟡 Medium</td>
 <td><img src="https://img.shields.io/badge/COMPLETE-00FF41?style=flat-square"/></td>
-<td><a href="Enigma/"><img src="https://img.shields.io/badge/OPEN-0D1117?style=flat-square&logo=readthedocs&logoColor=9FEF00"/></a></td>
+<td><a href="Enigma/"><img src="https://img.shields.io/badge/OPEN-020617?style=flat-square&logo=readthedocs&logoColor=9FEF00"/></a></td>
 </tr>
 <tr>
 <td><strong>Connected</strong></td>
 <td><img src="https://cdn.simpleicons.org/windows/00BFFF" width="16"/> Windows</td>
 <td>🟡 Medium</td>
 <td><img src="https://img.shields.io/badge/COMPLETE-00FF41?style=flat-square"/></td>
-<td><a href="Connected/"><img src="https://img.shields.io/badge/OPEN-0D1117?style=flat-square&logo=readthedocs&logoColor=9FEF00"/></a></td>
+<td><a href="Connected/"><img src="https://img.shields.io/badge/OPEN-020617?style=flat-square&logo=readthedocs&logoColor=9FEF00"/></a></td>
 </tr>
 <tr>
 <td><strong>PaperWork</strong></td>
 <td><img src="https://cdn.simpleicons.org/linux/9FEF00" width="16"/> Linux</td>
 <td>🟡 Medium</td>
 <td><img src="https://img.shields.io/badge/COMPLETE-00FF41?style=flat-square"/></td>
-<td><a href="PaperWork/"><img src="https://img.shields.io/badge/OPEN-0D1117?style=flat-square&logo=readthedocs&logoColor=9FEF00"/></a></td>
+<td><a href="PaperWork/"><img src="https://img.shields.io/badge/OPEN-020617?style=flat-square&logo=readthedocs&logoColor=9FEF00"/></a></td>
 </tr>
 <tr>
 <td><strong>Bedside</strong></td>
 <td><img src="https://cdn.simpleicons.org/linux/9FEF00" width="16"/> Linux</td>
 <td>🟢 Easy</td>
 <td><img src="https://img.shields.io/badge/COMPLETE-00FF41?style=flat-square"/></td>
-<td><a href="Bedside/"><img src="https://img.shields.io/badge/OPEN-0D1117?style=flat-square&logo=readthedocs&logoColor=9FEF00"/></a></td>
+<td><a href="Bedside/"><img src="https://img.shields.io/badge/OPEN-020617?style=flat-square&logo=readthedocs&logoColor=9FEF00"/></a></td>
 </tr>
 </table>
 
@@ -234,35 +253,33 @@ Final documentation
 
 ---
 
-# 🔐 LAB DOCTRINE
-
-<div align="center">
+# 🔒 OPERATOR DOCTRINE
 
 <table>
 <tr>
-<td align="center" width="300" bgcolor="#0D1117">
+<td width="33%" align="center" valign="top">
 
-<img src="https://cdn.simpleicons.org/wireshark/9FEF00" width="38"/><br><br>
+<img src="https://cdn.simpleicons.org/wireshark/9FEF00" width="42"/><br><br>
 
 ## Evidence First
 
-Every finding must be backed by observable output, packets, logs, screenshots, or reproducible commands.
+Every finding is supported by packets, logs, screenshots, hashes, or reproducible commands.
 
 </td>
-<td align="center" width="300" bgcolor="#0D1117">
+<td width="33%" align="center" valign="top">
 
-<img src="https://cdn.simpleicons.org/gnubash/9FEF00" width="38"/><br><br>
+<img src="https://cdn.simpleicons.org/gnubash/9FEF00" width="42"/><br><br>
 
 ## Mechanism Over Tricks
 
-Understand authentication, execution flow, permissions, networking, memory, and operating system behavior.
+Authentication, execution flow, permissions, networking, memory, and OS internals matter more than shortcuts.
 
 </td>
-<td align="center" width="300" bgcolor="#0D1117">
+<td width="33%" align="center" valign="top">
 
-<img src="https://cdn.simpleicons.org/git/9FEF00" width="38"/><br><br>
+<img src="https://cdn.simpleicons.org/git/9FEF00" width="42"/><br><br>
 
-## Repeatable Methodology
+## Repeatable Workflow
 
 Recon → Enumerate → Hypothesize → Test → Escalate → Document.
 
@@ -270,15 +287,13 @@ Recon → Enumerate → Hypothesize → Test → Escalate → Document.
 </tr>
 </table>
 
-</div>
-
 ---
 
 # ⚠️ RELEASE NOTICE
 
 This repository contains **retired Hack The Box machine writeups only**.
 
-**Excluded from this repository**
+**Excluded from publication**
 
 * Active machine solutions
 * VPN files
@@ -287,19 +302,19 @@ This repository contains **retired Hack The Box machine writeups only**.
 * Challenge flags
 * Unreleased HTB content
 
-The material is published for **educational, defensive security research, and methodology documentation** purposes.
+All material is published strictly for **educational, defensive security research, and methodology documentation** purposes.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:9FEF00,50:052E16,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&color=0:9FEF00,50:052E16,100:020617"/>
 
 ## ⚡ EVIDENCE OVER ASSUMPTIONS
 
-<pre><code>[ RECON ] → [ ENUM ] → [ EXPLOIT ] → [ PRIVESC ] → [ REPORT ]</code></pre>
+<pre><code>[ RECON ] → [ ENUM ] → [ ACCESS ] → [ ROOT ] → [ EVIDENCE ]</code></pre>
 
-**One box • One methodology • Infinite lessons**
+**One target • One methodology • Infinite lessons**
 
 <br>
 
