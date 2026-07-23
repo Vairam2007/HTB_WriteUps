@@ -41,66 +41,67 @@ ACCESS      : PUBLIC ARCHIVE
 </code></pre>
 
 
----
-<div align="center">
+---<div align="center">
 
 # 🛰️ OPERATOR DASHBOARD
 
 
-<table width="100%" cellpadding="20" cellspacing="0" border="1">
+<table width="100%" cellpadding="25" cellspacing="0" border="1"
+style="border-collapse:collapse; table-layout:fixed;">
+
 
 <tr>
 
-<th width="20%">🟢 EASY</th>
-<th width="20%">🟡 MEDIUM</th>
-<th width="20%">🔴 HARD</th>
-<th width="20%">💀 TOTAL</th>
-<th width="20%">🚦 STATUS</th>
+<th style="padding:20px;">🟢 EASY</th>
+<th style="padding:20px;">🟡 MEDIUM</th>
+<th style="padding:20px;">🔴 HARD</th>
+<th style="padding:20px;">💀 TOTAL</th>
+<th style="padding:20px;">🚦 STATUS</th>
 
 </tr>
 
 
 <tr>
 
-<td align="center">
+<td align="center" style="padding:35px;">
 
-<h2>02</h2>
+<h1>02</h1>
 
 Beginner Targets
 
 </td>
 
 
-<td align="center">
+<td align="center" style="padding:35px;">
 
-<h2>04</h2>
+<h1>04</h1>
 
 Intermediate Targets
 
 </td>
 
 
-<td align="center">
+<td align="center" style="padding:35px;">
 
-<h2>00</h2>
+<h1>00</h1>
 
 Advanced Targets
 
 </td>
 
 
-<td align="center">
+<td align="center" style="padding:35px;">
 
-<h2>06</h2>
+<h1>06</h1>
 
 Machines Logged
 
 </td>
 
 
-<td align="center">
+<td align="center" style="padding:35px;">
 
-<h2>🟢</h2>
+<h1>🟢</h1>
 
 ONLINE
 
@@ -129,20 +130,22 @@ ACTIVE
 # 📚 MACHINE DATABASE
 
 
-<table width="100%" cellpadding="15" cellspacing="0" border="1">
+<table width="100%" cellpadding="20" cellspacing="0" border="1"
+style="border-collapse:collapse; table-layout:fixed;">
 
 
 <tr>
 
-<th width="25%">🖥️ MACHINE</th>
+<th width="25%" style="padding:20px;">🖥️ MACHINE</th>
 
-<th width="20%">🐧 PLATFORM</th>
+<th width="20%" style="padding:20px;">🐧 PLATFORM</th>
 
-<th width="20%">🎯 DIFFICULTY</th>
+<th width="20%" style="padding:20px;">🎯 DIFFICULTY</th>
 
-<th width="20%">🚦 STATUS</th>
+<th width="20%" style="padding:20px;">🚦 STATUS</th>
 
-<th width="15%">📂 WRITEUP</th>
+<th width="15%" style="padding:20px;">📂 WRITEUP</th>
+
 
 </tr>
 
@@ -150,31 +153,39 @@ ACTIVE
 
 <tr>
 
-<td align="center">
+<td align="center" style="padding:30px;">
+
+&nbsp;&nbsp;&nbsp;
 
 <b>2Million</b>
 
+&nbsp;&nbsp;&nbsp;
+
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 🐧 Linux
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 🟢 EASY
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 ✅ COMPLETE
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 <a href="2Million/">
 
@@ -184,37 +195,46 @@ ACTIVE
 
 </td>
 
+
 </tr>
 
 
 
 <tr>
 
-<td align="center">
+<td align="center" style="padding:30px;">
+
+&nbsp;&nbsp;&nbsp;
 
 <b>Bedside</b>
 
+&nbsp;&nbsp;&nbsp;
+
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 🐧 Linux
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 🟢 EASY
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 ✅ COMPLETE
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 <a href="Bedside_HTB/">
 
@@ -224,37 +244,47 @@ ACTIVE
 
 </td>
 
+
 </tr>
+
 
 
 
 <tr>
 
-<td align="center">
+<td align="center" style="padding:30px;">
+
+&nbsp;&nbsp;&nbsp;
 
 <b>Connected</b>
 
+&nbsp;&nbsp;&nbsp;
+
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 🐧 Linux
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 🟡 MEDIUM
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 ✅ COMPLETE
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 <a href="Connected/">
 
@@ -264,37 +294,47 @@ ACTIVE
 
 </td>
 
+
 </tr>
+
 
 
 
 <tr>
 
-<td align="center">
+<td align="center" style="padding:30px;">
+
+&nbsp;&nbsp;&nbsp;
 
 <b>DevHub</b>
 
+&nbsp;&nbsp;&nbsp;
+
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 🐧 Linux
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 🟡 MEDIUM
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 ✅ COMPLETE
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 <a href="DevHub/">
 
@@ -304,37 +344,47 @@ ACTIVE
 
 </td>
 
+
 </tr>
+
 
 
 
 <tr>
 
-<td align="center">
+<td align="center" style="padding:30px;">
+
+&nbsp;&nbsp;&nbsp;
 
 <b>Enigma</b>
 
+&nbsp;&nbsp;&nbsp;
+
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 🐧 Linux
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 🟡 MEDIUM
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 ✅ COMPLETE
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 <a href="Enigma_HTB/">
 
@@ -344,37 +394,47 @@ ACTIVE
 
 </td>
 
+
 </tr>
+
 
 
 
 <tr>
 
-<td align="center">
+<td align="center" style="padding:30px;">
+
+&nbsp;&nbsp;&nbsp;
 
 <b>PaperWork</b>
 
+&nbsp;&nbsp;&nbsp;
+
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 🐧 Linux
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 🟡 MEDIUM
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 ✅ COMPLETE
 
 </td>
 
-<td align="center">
+
+<td align="center" style="padding:30px;">
 
 <a href="PaperWork/">
 
@@ -384,14 +444,15 @@ ACTIVE
 
 </td>
 
+
 </tr>
+
 
 
 </table>
 
 
 </div>
-
 
 ---
 
