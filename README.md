@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:020617,25:0F172A,50:111827,75:064E3B,100:9FEF00&text=HTB%20WRITEUPS&fontSize=58&fontColor=9FEF00&fontAlignY=42&desc=Retired%20Hack%20The%20Box%20Machine%20Archive&descAlignY=68&descSize=20&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:020617,25:0F172A,50:111827,75:064E3B,100:9FEF00&text=HTB%20WRITEUPS&fontSize=60&fontColor=9FEF00&fontAlignY=42&desc=Retired%20Hack%20The%20Box%20Machine%20Archive&descAlignY=70&descSize=20&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=9FEF00&center=true&vCenter=true&width=920&lines=%24+whoami+%E2%86%92+offensive-security-student;%24+focus+%E2%86%92+enumeration+%7C+exploitation+%7C+privilege-escalation;%24+repository+%E2%86%92+retired+HTB+writeups;%24+status+%E2%86%92+actively-maintained" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=9FEF00&center=true&vCenter=true&width=940&lines=%24+whoami+%E2%86%92+offensive-security-student;%24+focus+%E2%86%92+enumeration+%7C+exploitation+%7C+privilege-escalation;%24+repository+%E2%86%92+retired+HTB+writeups;%24+status+%E2%86%92+online+%26+actively+maintained" alt="Typing SVG"/>
 
 <br><br>
 
@@ -19,22 +19,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:111827,50:0F172A,100:065F46&text=OPERATOR%20STATUS%20•%20HTB%20ARCHIVE%20ONLINE&fontSize=28&fontColor=9FEF00&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:111827,50:0F172A,100:065F46&text=🖥️%20OPERATOR%20CONSOLE&fontSize=26&fontColor=9FEF00&animation=fadeIn"/>
 
 </div>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="100%" valign="top">
-
-### 🖥️ Operator Console
 
 <pre><code>┌──(htb㉿operator)-[~/writeups]
 └─$ ./status.sh
 
 [+] Retired machines documented
+[+] Enumeration findings verified
 [+] Exploitation chains reproduced in lab
 [+] Privilege escalation paths analyzed
 [+] Repository sanitized for public release
@@ -42,24 +35,57 @@
 
 ARCHIVE STATUS : OPERATIONAL
 HTB MODE       : RETIRED MACHINES
-LAST SYNC      : SUCCESSFUL</code></pre>
-
-</td>
-</tr>
-</table>
+LAST SYNC      : SUCCESSFUL
+</code></pre>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:111827,50:0F172A,100:065F46&text=🛰️%20OPERATOR%20DASHBOARD&fontSize=28&fontColor=9FEF00&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:111827,50:0F172A,100:065F46&text=🛰️%20OPERATOR%20DASHBOARD&fontSize=26&fontColor=9FEF00&animation=fadeIn"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/EASY-2-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MEDIUM-4-EAB308?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HARD-0-EF4444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TOTAL-6-111827?style=for-the-badge"/>
+<table>
+<tr>
+<td align="center" width="180">
+
+### 🟢 Easy
+
+<h1>2</h1>
+
+Completed
+
+</td>
+<td align="center" width="180">
+
+### 🟡 Medium
+
+<h1>4</h1>
+
+Completed
+
+</td>
+<td align="center" width="180">
+
+### 🔴 Hard
+
+<h1>0</h1>
+
+Completed
+
+</td>
+<td align="center" width="180">
+
+### 💀 Total
+
+<h1>6</h1>
+
+Archived
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -67,17 +93,17 @@ LAST SYNC      : SUCCESSFUL</code></pre>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:111827,50:0F172A,100:065F46&text=📚%20MACHINE%20INDEX&fontSize=28&fontColor=9FEF00&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:111827,50:0F172A,100:065F46&text=📚%20MACHINE%20INDEX&fontSize=26&fontColor=9FEF00&animation=fadeIn"/>
 
-<br>
+</div>
 
-<table>
+<table align="center">
 <tr>
-<th>Machine</th>
-<th>OS</th>
-<th>Difficulty</th>
-<th>Status</th>
-<th>Write-up</th>
+<th>🎯 Machine</th>
+<th>🖥️ Platform</th>
+<th>📈 Difficulty</th>
+<th>⚡ Status</th>
+<th>📂 Write-up</th>
 </tr>
 
 <tr>
@@ -127,10 +153,7 @@ LAST SYNC      : SUCCESSFUL</code></pre>
 <td><img src="https://img.shields.io/badge/COMPLETE-16A34A?style=flat-square"/></td>
 <td><a href="PaperWork/"><strong>OPEN</strong></a></td>
 </tr>
-
 </table>
-
-</div>
 
 ---
 
@@ -140,8 +163,6 @@ LAST SYNC      : SUCCESSFUL</code></pre>
 
 </div>
 
-<br>
-
 <table align="center">
 <tr>
 <td width="92%" valign="top">
@@ -150,7 +171,7 @@ This repository contains **writeups for retired Hack The Box machines** and is m
 
 The content is shared strictly for **educational and defensive security research** purposes.
 
-**Not included in this repository**
+**🔒 Not included in this repository**
 
 * Active machine solutions
 * Credentials
@@ -175,9 +196,9 @@ All published material has been **sanitized for public release**.
 
 <pre><code>[ recon ] → [ enumerate ] → [ exploit ] → [ privilege escalate ] → [ document ]</code></pre>
 
-**⚡ Retired HTB • Evidence-Driven Writeups • Repeatable Methodology**
+### ⚡ Retired HTB • Evidence-Driven Writeups • Repeatable Methodology
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/HTB-ARCHIVE-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 <img src="https://img.shields.io/badge/WRITEUPS-PUBLIC-111827?style=for-the-badge&logo=readthedocs&logoColor=9FEF00"/>
