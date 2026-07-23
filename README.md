@@ -1,8 +1,25 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:020617,25:0F172A,50:111827,75:064E3B,100:9FEF00&text=HTB%20WRITEUPS&fontSize=58&fontColor=9FEF00&fontAlignY=42&desc=Retired%20Hack%20The%20Box%20Machine%20Archive&descAlignY=68&descSize=20&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=9FEF00&center=true&vCenter=true&width=920&lines=%24+whoami+%E2%86%92+offensive-security-student;%24+focus+%E2%86%92+enumeration+%7C+exploitation+%7C+privilege-escalation;%24+repository+%E2%86%92+retired+HTB+writeups;%24+status+%E2%86%92+actively-maintained" alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/Retired-Machines-111827?style=for-the-badge&logo=readthedocs&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/Red%20Team-Training-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-ONLINE-00FF41?style=for-the-badge"/>
+
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:0F172A,100:065F46&height=70&section=header&text=OPERATOR%20STATUS%20•%20HTB%20ARCHIVE%20ONLINE&fontSize=26&fontColor=9FEF00&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:111827,50:0F172A,100:065F46&text=OPERATOR%20STATUS%20•%20HTB%20ARCHIVE%20ONLINE&fontSize=24&fontColor=9FEF00&animation=fadeIn"/>
 
 </div>
 
@@ -43,49 +60,9 @@ LAST SYNC      : SUCCESSFUL</code></pre>
 
 <div align="center">
 
-## ⚔️ HTB ATTACK CHAIN
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:111827,50:0F172A,100:065F46&text=MACHINE%20INDEX&fontSize=24&fontColor=9FEF00&animation=fadeIn"/>
 
-<table>
-<tr>
-<td align="center" width="170">
-
-<img src="https://img.shields.io/badge/01-RECON-2563EB?style=for-the-badge"/><br><br> <img src="https://cdn.simpleicons.org/nmap/2563EB" width="36"/><br><br> <strong>Port Discovery</strong><br> <sub>Nmap • Masscan • Fingerprinting</sub>
-
-</td>
-<td align="center" width="28"><h2>➜</h2></td>
-<td align="center" width="170">
-
-<img src="https://img.shields.io/badge/02-ENUM-7C3AED?style=for-the-badge"/><br><br> <img src="https://cdn.simpleicons.org/wireshark/7C3AED" width="36"/><br><br> <strong>Surface Mapping</strong><br> <sub>Users • SMB • Web • LDAP</sub>
-
-</td>
-<td align="center" width="28"><h2>➜</h2></td>
-<td align="center" width="170">
-
-<img src="https://img.shields.io/badge/03-EXPLOIT-DC2626?style=for-the-badge"/><br><br> <img src="https://cdn.simpleicons.org/metasploit/DC2626" width="36"/><br><br> <strong>Initial Access</strong><br> <sub>RCE • Credentials • Foothold</sub>
-
-</td>
-<td align="center" width="28"><h2>➜</h2></td>
-<td align="center" width="170">
-
-<img src="https://img.shields.io/badge/04-PRIVESC-059669?style=for-the-badge"/><br><br> <img src="https://cdn.simpleicons.org/linux/059669" width="36"/><br><br> <strong>Root / SYSTEM</strong><br> <sub>Sudo • Kernel • Misconfigurations</sub>
-
-</td>
-<td align="center" width="28"><h2>➜</h2></td>
-<td align="center" width="170">
-
-<img src="https://img.shields.io/badge/05-REPORT-111827?style=for-the-badge"/><br><br> <img src="https://cdn.simpleicons.org/readthedocs/9FEF00" width="36"/><br><br> <strong>Evidence Archive</strong><br> <sub>Screenshots • Proof • Reproduction</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 📚 MACHINE INDEX
+<br>
 
 <table>
 <tr>
@@ -152,49 +129,13 @@ LAST SYNC      : SUCCESSFUL</code></pre>
 
 <div align="center">
 
-## 🛡️ PUBLIC ARCHIVE POLICY
-
-<table>
-<tr>
-<td width="46%" align="center" valign="top">
-
-### ✅ Included
-
-Reconnaissance methodology<br>
-Enumeration findings<br>
-Exploitation analysis<br>
-Privilege escalation paths<br>
-Evidence-based documentation
-
-</td>
-<td width="8%"></td>
-<td width="46%" align="center" valign="top">
-
-### ❌ Excluded
-
-Active machine solutions<br>
-VPN files<br>
-Credentials / private keys<br>
-Challenge flags<br>
-Unreleased HTB content
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:0F172A,100:065F46&height=5&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:111827,50:0F172A,100:065F46&section=footer"/>
 
 <br>
 
 <pre><code>[ recon ] → [ enumerate ] → [ exploit ] → [ privilege escalate ] → [ document ]</code></pre>
 
-<strong>⚡ Retired HTB • Evidence-Driven Writeups • Repeatable Methodology</strong>
+**⚡ Retired HTB • Evidence-Driven Writeups • Repeatable Methodology**
 
 <br><br>
 
