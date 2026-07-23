@@ -1,16 +1,15 @@
-# ⚡ HTB // WRITEUPS
-
 <div align="center">
 
-```bash
-$ whoami
-offensive-security-student
+<pre>
+██╗  ██╗████████╗██████╗     ██╗    ██╗██████╗ ██╗████████╗███████╗██╗   ██╗██████╗ ███████╗
+██║  ██║╚══██╔══╝██╔══██╗    ██║    ██║██╔══██╗██║╚══██╔══╝██╔════╝██║   ██║██╔══██╗██╔════╝
+███████║   ██║   ██████╔╝    ██║ █╗ ██║██████╔╝██║   ██║   █████╗  ██║   ██║██████╔╝███████╗
+██╔══██║   ██║   ██╔══██╗    ██║███╗██║██╔══██╗██║   ██║   ██╔══╝  ██║   ██║██╔═══╝ ╚════██║
+██║  ██║   ██║   ██████╔╝    ╚███╔███╔╝██║  ██║██║   ██║   ███████╗╚██████╔╝██║     ███████║
+╚═╝  ╚═╝   ╚═╝   ╚═════╝      ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝
+</pre>
 
-$ ls ~/htb/writeups
-2Million  Bedside  Connected  DevHub  Enigma  PaperWork
-```
-
-**Retired Hack The Box machine writeups • Enumeration • Exploitation • Privilege Escalation**
+<strong>Retired Hack The Box machine writeups • Enumeration • Exploitation • Privilege Escalation</strong>
 
 <img src="https://img.shields.io/badge/HTB-Retired%20Machines-9FEF00?style=flat-square&logo=hackthebox&logoColor=black">
 <img src="https://img.shields.io/badge/Focus-Red%20Team%20Training-red?style=flat-square">
@@ -20,26 +19,9 @@ $ ls ~/htb/writeups
 
 ---
 
-## 🗂️ MACHINE INDEX
-
 <div align="center">
 
-| Machine       |    OS    | Difficulty | Status |       Write-up       |
-| :------------ | :------: | :--------: | :----: | :------------------: |
-| **2Million**  | 🐧 Linux |   🟢 Easy  |    ✅   |   [OPEN](2Million/)  |
-| **Bedside**   | 🐧 Linux |   🟢 Easy  |    ✅   | [OPEN](Bedside_HTB/) |
-| **Connected** | 🐧 Linux |  🟡 Medium |    ✅   |  [OPEN](Connected/)  |
-| **DevHub**    | 🐧 Linux |  🟡 Medium |    ✅   |    [OPEN](DevHub/)   |
-| **Enigma**    | 🐧 Linux |  🟡 Medium |    ✅   |  [OPEN](Enigma_HTB/) |
-| **PaperWork** | 🐧 Linux |  🟡 Medium |    ✅   |  [OPEN](PaperWork/)  |
-
-</div>
-
----
-
-## 📈 PROGRESS
-
-<div align="center">
+## 🧠 OPERATOR DASHBOARD
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 💀 Total |
 | :-----: | :-------: | :-----: | :------: |
@@ -49,10 +31,26 @@ $ ls ~/htb/writeups
 
 ---
 
-## 🧪 LAB STRUCTURE
+## 🗂️ MACHINE INDEX
 
-```text
-.
+<div align="center">
+
+| Machine       |  OS | Difficulty |         Status        |             Write-up            |
+| :------------ | :-: | :--------: | :-------------------: | :-----------------------------: |
+| **2Million**  |  🐧 |   🟢 Easy  | <code>COMPLETE</code> |   <a href="2Million/">OPEN</a>  |
+| **Bedside**   |  🐧 |   🟢 Easy  | <code>COMPLETE</code> | <a href="Bedside_HTB/">OPEN</a> |
+| **Connected** |  🐧 |  🟡 Medium | <code>COMPLETE</code> |  <a href="Connected/">OPEN</a>  |
+| **DevHub**    |  🐧 |  🟡 Medium | <code>COMPLETE</code> |    <a href="DevHub/">OPEN</a>   |
+| **Enigma**    |  🐧 |  🟡 Medium | <code>COMPLETE</code> |  <a href="Enigma_HTB/">OPEN</a> |
+| **PaperWork** |  🐧 |  🟡 Medium | <code>COMPLETE</code> |  <a href="PaperWork/">OPEN</a>  |
+
+</div>
+
+---
+
+## 📂 LAB MAP
+
+<pre><code>.
 ├── 2Million/
 ├── Bedside_HTB/
 ├── Connected/
@@ -61,22 +59,20 @@ $ ls ~/htb/writeups
 ├── PaperWork/
 ├── Challenges/
 └── POC_Official/
-```
+</code></pre>
 
 ---
 
 ## ⚠️ DISCLAIMER
 
-This repository contains writeups for **retired Hack The Box machines** and is maintained as part of my **offensive security and red team training**. The content is shared for educational and defensive security research purposes only. No active machine solutions, credentials, VPN files, private keys, or challenge flags are included in this repository.
+This repository contains writeups for <strong>retired Hack The Box machines</strong> and is maintained as part of my <strong>offensive security and red team training</strong>. The content is shared for educational and defensive security research purposes only. No active machine solutions, credentials, VPN files, private keys, or challenge flags are included in this repository.
 
 ---
 
 <div align="center">
 
-```text
-[ recon ] → [ enumerate ] → [ exploit ] → [ privilege escalate ] → [ document ]
-```
+<pre><code>[ recon ] → [ enumerate ] → [ exploit ] → [ privilege escalate ] → [ document ]</code></pre>
 
-**⚡ One box at a time. Evidence over assumptions.**
+<strong>⚡ One box at a time. Evidence over assumptions.</strong>
 
 </div>
